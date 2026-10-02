@@ -32,6 +32,16 @@ streamlit run app.py
 
 The app opens in your browser.
 
+## Demo runbook
+
+1. Open the app and check the sidebar shows `Make.com webhook: configured`.
+2. If you have already run the demo, tick **Clear decisions, drafts and reopen events** and press **Reset demo data** for a clean audit trail.
+3. Open a ticket where a clause exists only in an outdated policy. The app refuses to cite it and explains that no current clause applies — this is the policy-versioning control.
+4. Open a ticket with a matching current clause. Generate the suggestion, edit the text, and show the cited document, version and clause with its similarity score.
+5. Tick **Approval needed**, then **Accept draft**. The decision is stored, the Make scenario fires, and the audit history shows the workflow status.
+6. Click **Accept draft** again to show it is blocked. Reopen the ticket with a reason to show how the customer follow-up restores it.
+7. Press **Send reply (SIMULATED)** to show that no real customer message is ever sent.
+
 ## Deploy
 
 ### Streamlit Community Cloud (free)
