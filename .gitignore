@@ -1,0 +1,7 @@
+env/
+__pycache__/
+*.pyc
+jirani.db
+jirani.db-journal
+.env
+webhook_debug.log

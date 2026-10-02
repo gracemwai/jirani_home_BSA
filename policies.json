@@ -1,0 +1,89 @@
+[
+  {
+    "document_id": "RETURNS_V3",
+    "document_name": "Returns & Damaged Items Policy",
+    "version": "v3",
+    "status": "current",
+    "effective_date": "2026-08-01",
+    "clauses": [
+      {
+        "clause_number": "1.1",
+        "title": "Return window",
+        "text": "Customers may request a return within 14 calendar days of delivery for eligible items, subject to the conditions in this policy."
+      },
+      {
+        "clause_number": "1.2",
+        "title": "Proof of purchase",
+        "text": "A return or damaged-item request should include an order reference or other available proof of purchase. If the reference is unavailable, the agent should request it before completing the case."
+      },
+      {
+        "clause_number": "2.1",
+        "title": "Damage reported on delivery",
+        "text": "If an item arrives visibly damaged, the customer should report the damage as soon as reasonably possible and provide photographs showing the damaged item and packaging. The support agent should record the reported damage and review the case against the applicable replacement or refund process."
+      },
+      {
+        "clause_number": "2.2",
+        "title": "Damage reported after delivery",
+        "text": "If damage is discovered after delivery, the customer should provide photographs of the item and describe the damage. The agent should verify the order details and review eligibility under the returns policy before confirming an outcome."
+      },
+      {
+        "clause_number": "3.1",
+        "title": "Replacement request",
+        "text": "A replacement may be requested for an eligible damaged item. The support agent must review the case and follow any required approval process before confirming that a replacement will be issued."
+      },
+      {
+        "clause_number": "3.2",
+        "title": "Refund request",
+        "text": "A refund request must be reviewed against the applicable return conditions. The support agent must not promise a refund before the required review or approval has been completed."
+      },
+      {
+        "clause_number": "4.1",
+        "title": "Missing information",
+        "text": "When required information is missing, the agent should request the missing details rather than assume or invent order references, dates, amounts, delivery information, or other customer facts."
+      }
+    ]
+  },
+  {
+    "document_id": "RETURNS_V2",
+    "document_name": "Returns & Damaged Items Policy",
+    "version": "v2",
+    "status": "outdated",
+    "effective_date": "2026-03-01",
+    "clauses": [
+      {
+        "clause_number": "2.1",
+        "title": "Damaged item",
+        "text": "Customers should report damaged items within 30 calendar days and may request a replacement after the support team reviews the case."
+      },
+      {
+        "clause_number": "3.1",
+        "title": "Replacement request",
+        "text": "Support agents may confirm a replacement for a damaged item once the customer provides an order reference."
+      },
+      {
+        "clause_number": "4.1",
+        "title": "Missing information",
+        "text": "If an order reference is unavailable, the agent may proceed using the customer's name and delivery date."
+      }
+    ]
+  },
+  {
+    "document_id": "WARRANTY_V1",
+    "document_name": "Warranty Policy",
+    "version": "v1",
+    "status": "current",
+    "effective_date": "2026-07-15",
+    "clauses": [
+      {
+        "clause_number": "1.1",
+        "title": "Warranty coverage",
+        "text": "Warranty requests should identify the product and describe the fault. The agent should check the applicable warranty conditions before confirming eligibility."
+      },
+      {
+        "clause_number": "1.2",
+        "title": "Warranty evidence",
+        "text": "Where relevant, the customer may be asked for photographs, a description of the fault, and proof of purchase to support a warranty review."
+      }
+    ]
+  }
+]
